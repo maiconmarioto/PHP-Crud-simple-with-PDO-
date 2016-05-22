@@ -3,7 +3,7 @@
 * Nginx 1.8.0
 * PHP 5.6
 * Docker
-[More info](https://github.com/dydx/alpine-nginx-php-mariadb)
+* [More info](https://github.com/dydx/alpine-nginx-php-mariadb)
 
 ## Usage
 * Run `docker-compose up -d` in terminal 
