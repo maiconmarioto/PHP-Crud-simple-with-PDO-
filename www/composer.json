@@ -1,0 +1,13 @@
+{
+  "require": {
+    "symfony/var-dumper": "^3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "MM\\Config\\": "MM/Config",
+      "MM\\Database\\": "MM/Database",
+      "MM\\Interfaces\\": "MM/Interfaces",
+      "Models\\": "Models"
+    }
+  }
+}
